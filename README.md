@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Addy Rodriguez</h1>
 <h3 align="center">I'm a Junior Software Engineer</h3>
+<img align="right" alt="Coding" width="400" src="https://gfycat.com/exemplaryfairfeline">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=addyrdz&label=Profile%20views&color=0e75b6&style=flat" alt="addyrdz" /> </p>
 
