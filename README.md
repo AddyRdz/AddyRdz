@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Addy Rodriguez</h1>
 <h3 align="center">I'm a Junior Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=addyrdz&label=Profile%20views&color=0e75b6&style=flat" alt="addyrdz" /> </p>
+<p>I am a recent graduate of General Assembly's SEI program and I am ready to apply everything that I have learned so far. When I am not working on code you can usually catch me hanging out with my dog or watching some baseball.</p>
 
 - 🔭 I’m currently working on **developing all my skills.**
 
@@ -22,3 +22,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=addyrdz&show_icons=true&locale=en&layout=compact" alt="addyrdz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=addyrdz&show_icons=true&locale=en" alt="addyrdz" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=addyrdz&label=Profile%20views&color=0e75b6&style=flat" alt="addyrdz" /> </p>
