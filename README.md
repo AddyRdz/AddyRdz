@@ -6,7 +6,7 @@
 <img align="right" img alt="Logo" width="400" src=https://github.com/AddyRdz/AddyRdz/blob/master/Assets/AR%20Logo%20(3).png?raw=true> </img>
 <br>
 
-- 🔭 I’m currently working on **developing all my skills.**
+- 🔭 I’m currently working on **developing all of my skills.**
 
 - 🌱 I’m currently learning **anything and everything!**
 
