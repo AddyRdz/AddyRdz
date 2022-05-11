@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Addy Rodriguez</h1>
-<h2 align="center">I'm a Junior Software Engineer</h2>
+<h2 align="center">I'm a Software Engineer</h2>
 
 <h3 align="left">About me:</h3>
 <p>I am a recent graduate of General Assembly's SEI program and I am ready to apply everything that I have learned so far. When I am not working on code you can usually catch me hanging out with my dog or watching some baseball.</p>
