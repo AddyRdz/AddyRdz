@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm  a software engineer that loves learning and keeping up with all the new technology trends. I am a graduate of the RISE program at Cisco Systems where I spent 15 months working on the secureX product and gained valuable knowledge of working with a live security product.<br><br>I have graduate from Multiverse Software Engineering program and General Assembly's Software Engineering Immersive Program.<br><br>- 🔭 I’m working as Software Engineer @ Cisco.<br><br>- 📚 I'm currently learning about Cyber Security and Artificial Intelligence trends. <br><br>- ⚡ In my free time I love to hang out with my dog and cheer on my favorite baseball team.<br><br>- 👨‍💻 All of my projects are available at [addyrodriguez.com](addyrodriguez.com)<br><br>- 📫 How to reach me: **addyrodriguez18@gmail.com**</p>
+<p align="left">I'm  a software engineer that loves learning and keeping up with all the new technology trends. I am a graduate of the RISE program at Cisco Systems where I spent 15 months working on the secureX product and gained valuable knowledge of working with a live security product.<br><br>I have graduate from Multiverse Software Engineering program and General Assembly's Software Engineering Immersive Program.<br><br>- 🔭 I’m working as Software Engineer @ Cisco.<br><br>- 📚 I'm currently learning about Cyber Security and Artificial Intelligence trends. <br><br>- ⚡ In my free time I love to hang out with my dog and cheer on my favorite baseball team.<br><br>- 👨‍💻 All of my projects are available at <a href = "https://www.addyrodriguez.com/">addyrodriguez.com<br><br>- 📫 How to reach me: addyrodriguez18@gmail.com</p>
 
 ###
 
@@ -50,7 +50,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
@@ -58,7 +58,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
   <img width="12" />
@@ -68,7 +68,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" alt="heroku logo"  />
+  <img src="https://skillicons.dev/icons?i=heroku" height="40" alt="heroku logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins logo"  />
   <img width="12" />
@@ -79,6 +79,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40" alt="githubactions logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
 </div>
 
 ###
